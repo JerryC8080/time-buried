@@ -24,7 +24,7 @@ setTimeout(() => {
     
     // print: { startTimestamp: 1542784622547, endTimestamp: 1542784623551, diff: 1004 }
     console.log(value);
-})
+}, 1000)
 ```
 
 # Mutil points
@@ -47,7 +47,7 @@ setTimeout(() => {
     //     init: { startTimestamp: 1542784802011, endTimestamp: 1542784803013, diff: 1002 },
     // }
     console.log(allValue);
-})
+}, 1000)
 ```
 
 # Just Print
@@ -67,5 +67,5 @@ setTimeout(() => {
     // Time Recorder: ---- launch: 1002ms
     // Time Recorder: ---- init: 1004ms
     tB.printAll();
-})
+}, 1000)
 ```
