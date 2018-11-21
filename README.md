@@ -1,6 +1,9 @@
 # time-buried
 Buried time point.
 
+[![npm version](https://badge.fury.io/js/time-buried.svg)](https://badge.fury.io/js/time-buried)
+[![Package Quality](http://npm.packagequality.com/shield/time-buried.svg)](http://packagequality.com/#?package=time-buried)
+
 # Burying start time and end time
 
 ```javascript
